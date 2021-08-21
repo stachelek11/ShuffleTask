@@ -1,4 +1,4 @@
-# ShuffleTask
+# ShuffleTask - https://stachelek11.github.io/ShuffleTask/index.html
 Czas wykonania zadania: 2,5-4godzin, ciężko powiedzieć czy liczymy też robienie ikony, zabawę z tłem. Ale żeby wyglądało to tak jak wygląda około 4 godziny.
 
 Początkowo chciałem wykorzystać fontawesome, ale nie byłem pewny czy to nie dyskwalifikuje kandydata, dlatego jednak własny svg.
