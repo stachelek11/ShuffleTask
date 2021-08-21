@@ -7,4 +7,4 @@ Nie wiem czy wymagaliście responsywności, czy tylko widoku jak na obrazku, ale
 
 Nie dodawałem prefixów żeby łatwiej było sprawdzać, ale wiem o ich istnieniu i że warto używać (szczególnie ze względu na iOS).
 
-To wszystko, miłego sprawdzania. Mam nadzieję że podałałem oczekiwaniom. :)
+To wszystko, miłego sprawdzania. Mam nadzieję że podołałem oczekiwaniom. :)
