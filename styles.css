@@ -94,6 +94,7 @@ body {
   color: #ffffff;
   font-size: 0.9rem;
   font-weight: 300;
+  coursor: pointer;
 }
 
 .rightBox {
@@ -107,6 +108,7 @@ body {
   border: 1px solid #e0e0e0;
   background-color: #ffffff;
   border-radius: 5px;
+  coursor: pointer;
 }
 
 .rightBox__Column {
