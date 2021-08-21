@@ -1,10 +1,10 @@
 # ShuffleTask
-Czas wykonania zadania: 2,5-4godzin, ciężko powiedzieć czy liczymy też robienie ikony, zabawę z tłem. Ale żeby wyglądało to tak jak wygląda około 4 godziny
+Czas wykonania zadania: 2,5-4godzin, ciężko powiedzieć czy liczymy też robienie ikony, zabawę z tłem. Ale żeby wyglądało to tak jak wygląda około 4 godziny.
 
-Początkowo chciałem wykorzystać fontawesome, ale nie byłem pewny czy to nie dyskwalifikuje kandydata, dlatego jednak własny svg
+Początkowo chciałem wykorzystać fontawesome, ale nie byłem pewny czy to nie dyskwalifikuje kandydata, dlatego jednak własny svg.
 
-Nie wiem czy wymagaliście responsywności, czy tylko widoku jak na obrazku, ale widziałem że napisaliście "...świetnie rozumie zasady RWD oraz związane z nimi rozwiązania" więc zrobiłem responsywne
+Nie wiem czy wymagaliście responsywności, czy tylko widoku jak na obrazku, ale widziałem że napisaliście "...świetnie rozumie zasady RWD oraz związane z nimi rozwiązania" więc zrobiłem responsywne.
 
-Nie dodawałem prefixów żeby łatwiej było sprawdzać, ale wiem o ich istnieniu i że warto używać (szczególnie ze względu na iOS)
+Nie dodawałem prefixów żeby łatwiej było sprawdzać, ale wiem o ich istnieniu i że warto używać (szczególnie ze względu na iOS).
 
-To wszystko, miłego sprawdzania, mam nadzieję że podałałem oczekiwanio :)
+To wszystko, miłego sprawdzania, mam nadzieję że podałałem oczekiwaniom. :)
